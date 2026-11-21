@@ -1,19 +1,5 @@
 <div align="center">
 
-```
-  ____  _          _
- |  _ \(_)_  _____| |
- | |_) | \ \/ / _ \ |
- |  __/| |>  <  __/ |
- |_|   |_/_/\_\___|_|
-   ____  _                 _
-  |  _ \| |_   _ _ __ ___ | |__   ___ _ __
-  | |_) | | | | | '_ ` _ \| '_ \ / _ \ '__|
-  |  __/| | |_| | | | | | | |_) |  __/ |
-  |_|   |_|\__,_|_| |_| |_|_.__/ \___|_|
-          E   N   G   I   N   E
-```
-
 ### 🔧 A side-scrolling platformer built from nothing but registers, a stack and a lot of patience 🔧
 
 ![Language](https://img.shields.io/badge/language-x86%20Assembly-b22222?style=for-the-badge)
